@@ -266,9 +266,9 @@ Al ser 100% digital, Big Paws no tiene fronteras ni límites geográficos:
 > 🚧 *Proyecto nacido en hackathon. MVP en desarrollo activo.*
 > Si eres inversor, ONG, marca sostenible o desarrollador — escríbenos.
 
-[![Email](https://img.shields.io/badge/contacto@bigpaws.app-d4a373?style=flat-square&logo=gmail&logoColor=white&labelColor=8c6b3e)](mailto:contacto@bigpaws.app)
-[![Twitter](https://img.shields.io/badge/@BigPawsApp-a3b18a?style=flat-square&logo=twitter&logoColor=white&labelColor=3a5a40)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/Big_Paws-52b788?style=flat-square&logo=linkedin&logoColor=white&labelColor=2d6a4f)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/biggpawws@gmail.com-d4a373?style=flat-square&logo=gmail&logoColor=white&labelColor=8c6b3e)](mailto:biggpawws@gmail.com)
+[![instagram](https://img.shields.io/badge/@BigPawsApp-a3b18a?style=flat-square&logo=twitter&logoColor=white&labelColor=3a5a40)](https://twitter.com)
+[![tiktok](https://img.shields.io/badge/Big_Paws-52b788?style=flat-square&logo=linkedin&logoColor=white&labelColor=2d6a4f)](https://linkedin.com)
 
 <br/>
 
